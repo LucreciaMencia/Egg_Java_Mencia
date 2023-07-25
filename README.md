@@ -1,3 +1,3 @@
 # Curso de Testing Automation 
 ## Egg Education
-### Este repositorio lo hice para cargar las actividades de programación con Java y con ellos mis avances con el aprendizaje del lenguaje.
+* Este repositorio fue creado con fines académicos. Contiene los ejercicios resueltos de Java.*
