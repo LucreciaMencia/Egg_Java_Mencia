@@ -20,16 +20,18 @@ import java.util.Random;
 
 public class EggJavaDesafio301 {
     public static void main(String[] args) {
-        Scanner lector = new Scanner(System.in);
+      //  Scanner lector = new Scanner(System.in);
+
+        System.out.println(Math.floor((Math.random()*200)+1));
 
 
-        System.out.println("CONTRASEÑA ALEATORIA");
+     /*   System.out.println("CONTRASEÑA ALEATORIA");
         System.out.println("Ingrese longitud de contraseña, debe ser mayor a 6");
         int longitud = lector.nextInt();
         char[] arregloCHar = new char[longitud-1];
 
         for(int i = 0; i<longitud;i++){
             
-        }
+        }*/
     }
 }
